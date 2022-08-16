@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Adam
-- 👀 I’m interested in python, JavaScript, and web, game and software design and development
-- 🌱 I’m currently learning C and C#
-- 💞️ I’m looking to collaborate on something that can help people
+- 👀 I’m interested in full-stack, python, web, game and software development
+- 🌱 I’m currently learning JavaScript, C and C#
+- 💞️ I’m looking to collaborate on something that can help the world become a better place
 - 📫 How to reach me visit my website!  www.adamseese.com
 
 <!---
